@@ -11,3 +11,5 @@ Code will need to be updated with included index.html and style.css files.
 ## Credits
 
 UCSD Extension program materials. These were crucial in understanding the problem and realizing a solution to consolidating the code to a manageable leve.
+
+© Sam Wallace 2022
