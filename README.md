@@ -2,7 +2,7 @@
 
 ## Description
 
-Refactoring the Horiseon landing page in order to consolidate CSS and adjust HTML tags. We want to ensure that all code can be easily read in case any edits that need to be made. This will ensure that any additions or changes that are made in the future are easilly accessible.
+Refactoring the Horiseon landing page in order to consolidate CSS and adjust HTML tags. We want to ensure that all code can be easily read in case any edits or updates need to be made. This will ensure that any additions or changes that are made in the future are easilly accessible.
 
 ## Installation
 
